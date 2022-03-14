@@ -1,12 +1,3 @@
-/*
-27th Feb, 2022
-Problem 2
-
-Roll Number:ai21btech11010
-Name: Chandrahas Dondapati
-
-*/
-
 #include <stdio.h>
 
 /*returns length of string*/
